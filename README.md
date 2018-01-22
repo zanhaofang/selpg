@@ -25,4 +25,4 @@ flag.Parse()
 ![image](https://github.com/zanhaofang/selpg/blob/master/pics/pic2.JPG)
 
 使用标准输入进行测试
-![image]()
+![image](https://github.com/zanhaofang/selpg/blob/master/pics/pic3.JPG)
